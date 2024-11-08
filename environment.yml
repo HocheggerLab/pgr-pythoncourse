@@ -1,0 +1,5 @@
+name: pgr-pythoncourse
+channels:
+  - conda-forge
+  - bioconda
+prefix: /Users/hh65/mambaforge/envs/pgr-pythoncourse
