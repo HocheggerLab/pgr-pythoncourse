@@ -5,8 +5,8 @@ dna_sequence = input("Enter a DNA sequence: ")
 dna_sequence = dna_sequence.upper()
 
 # Step 3: Count the number of G's and C's in the sequence
-g_count = dna_sequence.count('G')
-c_count = dna_sequence.count('C')
+g_count = dna_sequence.count("G")
+c_count = dna_sequence.count("C")
 
 # Step 4: Calculate the total GC content
 total_gc_content = g_count + c_count
